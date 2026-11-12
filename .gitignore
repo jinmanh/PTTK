@@ -1,0 +1,13 @@
+# Compiled output
+out/
+*.class
+
+# Tomcat bundle downloaded locally
+apache-tomcat-10.1.61/
+apache-tomcat-10.1.61.zip
+
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
